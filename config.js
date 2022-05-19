@@ -12,7 +12,7 @@ config.site.admin_email = 'info@example.com';
 
 
 config.database = {};
-config.database.dbname = 'title';
+config.database.dbname = 'DB Name';
 config.database.dbuser = 'root';
 config.database.dbpass = '123456789';
 // config.database.dbhost = 'localhost';
